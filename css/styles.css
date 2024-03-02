@@ -148,11 +148,11 @@ button {
     color: #2e2f42;
 }
 
-.team-list {
-    background-color: #FFFFFF
-}
+.team-list {}
 
-.team-item {}
+.team-item {
+    background-color: #FFFFFF;
+}
 
 .team-image {}
 

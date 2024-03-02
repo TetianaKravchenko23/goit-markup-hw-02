@@ -64,8 +64,7 @@ button {
     color: #2e2f42;
 }
 
-.header-link:hover,
-.header-link:focus {
+.header-link:hover, .header-link:focus {
     color: #404bbf;
 }
 
@@ -86,8 +85,7 @@ button {
     color: #434455;
 }
 
-.header-contact-link:hover,
-.heaer-link:focus {
+.header-contact-link:hover, .header-contact-link:focus {
     color: #404bbf;
 }
 
